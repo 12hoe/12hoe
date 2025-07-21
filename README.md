@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @12hoe
-- 👀 I’m interested in embedded system programming
-- 🌱 I’m currently learning embedded C
+- 👀 I’m interested in Data and Engineering
+- 🌱 I’m currently on Data
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me hoe23@bath.ac.uk
 
